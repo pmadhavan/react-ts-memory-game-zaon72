@@ -34,8 +34,6 @@ export const Block = ({
       role="button"
       className={`${styles.block} ${memorize ? block_status.memorize : status}`}
       onClick={handleBlockClick}
-    >
-      {blockId}
-    </div>
+    ></div>
   );
 };
