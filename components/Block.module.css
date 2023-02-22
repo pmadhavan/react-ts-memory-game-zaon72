@@ -1,0 +1,16 @@
+.block {
+  width: 50px;
+  height: 50px;
+  border: 1px solid rgb(80, 77, 77);
+}
+.correct_block {
+  background-color: green;
+}
+
+.incorrect_block {
+  background-color: red;
+}
+
+.memorize_block {
+  background-color: blue;
+}

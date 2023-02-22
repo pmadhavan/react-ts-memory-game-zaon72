@@ -1,0 +1,16 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 60px);
+  grid-auto-rows: 60px;
+}
+
+
+
+.start_button {
+  background-color: aqua;
+  border-radius: 5px;
+  border: none;
+  padding: 0.75rem;
+  margin: 0.25rem;
+  text-align: center;
+}
